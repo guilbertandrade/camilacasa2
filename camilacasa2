@@ -384,26 +384,6 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/2384.m3u8
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/5094.m3u8
 
 
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Filmes e Series",SYFY
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/939.m3u8
-
-
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Filmes e Series",SYFY HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/18087.m3u8
-
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Filmes e Series",TBS
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/937.m3u8
-
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Filmes e Series",TBS HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/2473.m3u8
-
-
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768471_301eda035c94a449755f1ea79b2208599af261b0.png" group-title="Filmes e Series",TCM
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52252.m3u8
-----------------------------------------------------------------------
-
 #EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52589.m3u8
 
@@ -454,14 +434,6 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/927.m3u8
 
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768549_d5280f7bfbf0918d0cf522c156b3f6f9b10aa3be.jpg" group-title="Variedades e Musicas",TERRA VIVA
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52689.m3u8
-
-
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios",THE HISTORY CHANNEL
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/923.m3u8
-
-
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL HD" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios",THE HISTORY CHANNEL HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/2468.m3u8
 
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://img.starbr.in/1559768628_3c5f777fbb346843410bb847b692c0dab9968f0b.png" group-title="Variedades e Musicas",TLC
@@ -526,15 +498,3 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/896.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Series",WARNER CHANNEL HD
 http://list.deeplist.nl/live/joaogabriel01/Gabi987654/2478.m3u8
-
-
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://img.starbr.in/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Variedades e Musicas",WOOHOO
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/894.m3u8
-
-
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO HD" tvg-logo="http://img.starbr.in/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Variedades e Musicas",WOOHOO HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/16214.m3u8
-
-
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="http://img.starbr.in/1559770063_1f2de0bc4ead42eec4e7fb3abe980e54ed2cfd25.png" group-title="Infantil",ZOOMOO
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/20833.m3u8
