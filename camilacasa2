@@ -6,7 +6,7 @@ http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/2222.
 
 
 #EXTINF:-1 tvg-id="AeE" tvg-name="A&E²" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E²
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_dfff21e464708f7ad295a6233f3202da9de4229d/playlist.m3u8
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
@@ -22,52 +22,35 @@ https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8?nimblesessionid=41
 
 
 #EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA HD" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/20831.m3u8
+https://caikron.com.br:8082/tvap/tvap/tvap/source/chunks.m3u8?nimblesessionid=41376274
 
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Series",AXN
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1712.m3u8
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/7777.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Series",AXN HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1114.m3u8
-
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/axn_cb7a1d77_e02283d17257672d60f32ed417140f7078089ef2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1713.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_7b1f7866207b1a296db75dcc9ac9972b9ebe3f04/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52595.m3u8
-
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Infantil",BOOMERANG
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1102.m3u8
-
-
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/5079.m3u8
-
-
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL²" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL²
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/24745.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_7b1f7866207b1a296db75dcc9ac9972b9ebe3f04/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="http://img.starbr.in/1559754485_2eca300025a7676ca5bf1e87caa23119721219f2.jpg" group-title="Variedades e Musicas",CANAL DO BOI
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/2382.m3u8
-
-
-#EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559754545_54fa6dce94d73d8bcdf1e84131f6743a2d651779.png" group-title="Canais Abertos",CANAL RURAL
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52677.m3u8
+https://5e38d79ac4439.streamlock.net/canaldoboi/live/chunklist_w929542889_tkd293emF0b2tlbmhhc2g9SzEtTnZHQWhLN0hRWnZfWWMxOWpDVmpmS083NVpiYVh2bzBLMU9wdkNLYz0=.m3u8
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK
-https://streamlivea.amilpublicidades.com/hls1/cartoon.m3u8?wmsAuthSign=
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/cartoonnetwork_511a418e_742466f3c2779247c29c53f3299ed0d61005a3ea/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/43516.m3u8
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/14444.m3u8
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX
